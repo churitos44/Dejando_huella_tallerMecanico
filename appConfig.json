@@ -1,0 +1,5 @@
+{
+  "ConnectionString": {
+    "DefaulConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TallerMecanico"
+  }
+}
